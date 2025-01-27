@@ -78,7 +78,7 @@ export const heroData: Hero = {
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me training my <strong className="text-stone-100">Python, Postgres and Graphql</strong> skills,
-        <strong className="text-stone-100">jogging</strong> , or exploring trails around{' '}
+        <strong className="text-stone-100"> jogging</strong>, or exploring trails around{' '}
         <strong className="text-stone-100">Belo Horizonte</strong>.
       </p>
     </>
